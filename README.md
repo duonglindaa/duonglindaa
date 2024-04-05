@@ -1,5 +1,7 @@
 # Hi, I'm Linda 🙋‍♀️
-I'm a Data Analyst Consultant specializing in Tableau and Alteryx. I excel in developing visually captivating dashboards with a focus on design aesthetics. Recognizing the importance of data management, I have started my journey to deepen my knowledge in SQL. Take a look at my repository to see my progress and solutions to projects!✅
+I'm a Data Analyst Consultant specializing in Tableau and Alteryx. I've gained experience across diverse sectors, including finance, technology, hospitality, and automobile. My expertise lies in the development and enhancement of Tableau dashboards, paired with a strong sense of design. I also have experience using PowerBI and R. 📊
+
+Recognizing the importance of data management, I have started the journey to deepen my knowledge in SQL. Take a look at my repository to see my progress and solutions to projects!✅
 
 ### Certifications
 
